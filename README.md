@@ -1,4 +1,4 @@
-# BOT-O-SEMAFORO
+# BOTAO-SEMAFORO
 // C++ code
 //
 const int buttonPin = 3;
